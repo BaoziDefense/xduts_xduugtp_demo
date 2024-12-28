@@ -19,7 +19,8 @@
 
 5.不出意外overleaf会自动编译：
 
-![image](https://github.com/user-attachments/assets/cd6c53bb-78d3-48dc-8285-9ec4fa00c9b1)
+![image](https://github.com/user-attachments/assets/c69645a0-8a28-43e4-8b03-40eef518de47)
+
 
 部分效果：
 
